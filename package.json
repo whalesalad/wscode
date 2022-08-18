@@ -1,11 +1,13 @@
 {
     "name": "whalesalad-wscode",
     "displayName": "wscode",
-    "description": "",
+    "description": "a theme for vscode based on the OG Made of Code Textmate theme.",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.61.0"
     },
+    "publisher": "whalesalad",
+    "repository": "https://github.com/whalesalad/wscode",
     "categories": [
         "Themes"
     ],
